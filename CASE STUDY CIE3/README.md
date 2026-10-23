@@ -1,7 +1,7 @@
 # CGVR CIE3 | Case Study 3: Retail and Remote Commerce
 
-**Student:** Munnaluri Rishikesh  
-**USN:** 1RVU23CSE291  
+**Student:** MANDAR JOSHI
+**USN** 1RVU23CSE23
 **University:** RV University  
 **Course:** CS4104 - Computer Graphics & Virtual Reality  
 **Case-study title:** Case Study 3: Retail and Remote Commerce  
